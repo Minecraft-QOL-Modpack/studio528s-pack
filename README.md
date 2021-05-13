@@ -1,2 +1,2 @@
-# studio528s-pack
+# Studio528s-pack
 The modpack created by Studio528
